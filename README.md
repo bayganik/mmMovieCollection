@@ -4,16 +4,18 @@ This example searches www.IMDB.com for movie data.  You can search using partial
 
 OR, you can type all of the data yourself.  You have a choice !!
 
+MVVM light web site http://www.mvvmlight.net/  a good location for learning about the package.  Also available as NuGet.
+
 	
-## Sample Screen
+## App Screen
 
 ![screen image](MovieScreen.png)
 
-## Sample Screen
+## IMDB Search Screen
 
 ![screen image](IMDBsearch.png)
 
 
-MVVM light web site http://www.mvvmlight.net/
+
 
 
