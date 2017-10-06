@@ -1,0 +1,92 @@
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\mmMovieCollection.exe.config
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection.csprojResolveAssemblyReference.cache
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\ImageBanner.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\MainWindow.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Resources\MiscStyle.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Resources\RoundedButtonStyle.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Skins\MainSkin.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\FooterPage.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\LoginView.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\MasterPage.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\Menu.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\ImageBanner.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\MainWindow.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\FooterPage.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\HeaderPage.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\ImportView.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\MainView.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\LoginView.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\MasterPage.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\Menu.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\NewMovie.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\App.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection_MarkupCompile.cache
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection_MarkupCompile.lref
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\mmMovieCollection.exe
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\mmMovieCollection.pdb
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\GalaSoft.MvvmLight.WPF45.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\HtmlAgilityPack.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\System.Windows.Interactivity.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\GalaSoft.MvvmLight.WPF45.pdb
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\GalaSoft.MvvmLight.WPF45.xml
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\HtmlAgilityPack.pdb
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\HtmlAgilityPack.xml
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\System.Windows.Interactivity.xml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\App.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\HeaderPage.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\ImportView.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\MainView.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\Views\NewMovie.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection.g.resources
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection.Properties.Resources.resources
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection.csproj.GenerateResource.Cache
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection.exe
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection.pdb
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\System.Windows.Controls.Input.Toolkit.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\WPFToolkit.dll
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection_Content.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\mmMovieCollection.exe.manifest
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Release\mmMovieCollection.application
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection.exe.manifest
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Release\mmMovieCollection.application
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\mmMovieCollection.csprojResolveAssemblyReference.cache
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\ImageBanner.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\MainWindow.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Resources\MiscStyle.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Resources\RoundedButtonStyle.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Skins\MainSkin.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\FooterPage.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\LoginView.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\MasterPage.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\Menu.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\ImageBanner.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\MainWindow.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\FooterPage.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\HeaderPage.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\ImportView.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\MainView.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\LoginView.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\MasterPage.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\Menu.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\NewMovie.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\App.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\mmMovieCollection_Content.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\mmMovieCollection_MarkupCompile.cache
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\mmMovieCollection_MarkupCompile.lref
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\App.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\HeaderPage.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\ImportView.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\MainView.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\Views\NewMovie.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\mmMovieCollection.g.resources
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\mmMovieCollection.Properties.Resources.resources
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\mmMovieCollection.csproj.GenerateResource.Cache
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\mmMovieCollection.exe
+C:\AppDev\mm Projects\mmMovieCollection\obj\Release\mmMovieCollection.pdb

@@ -1,0 +1,115 @@
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\mmMovieCollection.csprojResolveAssemblyReference.cache
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\ImageBanner.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\MainWindow.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Resources\MiscStyle.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Resources\RoundedButtonStyle.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Skins\MainSkin.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\FooterPage.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\LoginView.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\MasterPage.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\Menu.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\ImageBanner.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\MainWindow.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\FooterPage.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\HeaderPage.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\LoginView.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\MasterPage.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\Menu.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\App.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\mmMovieCollection_MarkupCompile.cache
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\mmMovieCollection_MarkupCompile.lref
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\mmMovieCollection.exe
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\mmMovieCollection.pdb
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\mmMovieCollection.exe.CodeAnalysisLog.xml
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\mmMovieCollection.exe.lastcodeanalysissucceeded
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\App.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\HeaderPage.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\mmMovieCollection.g.resources
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\mmMovieCollection.Properties.Resources.resources
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\mmMovieCollection.csproj.GenerateResource.Cache
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\mmMovieCollection.exe
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\mmMovieCollection.pdb
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\MainView.baml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\MainView.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\NewMovie.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\NewMovie.baml
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\mmMovieCollection.exe.config
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\HtmlAgilityPack.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\HtmlAgilityPack.pdb
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\HtmlAgilityPack.xml
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\ImportView.g.cs
+C:\AppDev\()mmProjects\mmMovieCollection\obj\Debug\Views\ImportView.baml
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\System.Windows.Interactivity.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\AppDev\()mmProjects\mmMovieCollection\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection.csprojResolveAssemblyReference.cache
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\ImageBanner.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\MainWindow.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Resources\MiscStyle.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Resources\RoundedButtonStyle.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Skins\MainSkin.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\FooterPage.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\LoginView.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\MasterPage.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\Menu.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\ImageBanner.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\MainWindow.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\FooterPage.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\HeaderPage.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\ImportView.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\MainView.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\LoginView.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\MasterPage.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\Menu.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\NewMovie.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\App.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection_Content.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection_MarkupCompile.cache
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection_MarkupCompile.lref
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\App.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\HeaderPage.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\ImportView.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\MainView.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\Views\NewMovie.baml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection.g.resources
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection.Properties.Resources.resources
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection.csproj.GenerateResource.Cache
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection.exe
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection.pdb
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\mmMovieCollection.exe.config
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\mmMovieCollection.exe.manifest
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\mmMovieCollection.application
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\mmMovieCollection.exe
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\mmMovieCollection.pdb
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\mmMovieCollection.exe.CodeAnalysisLog.xml
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\mmMovieCollection.exe.lastcodeanalysissucceeded
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\HtmlAgilityPack.dll
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\System.Windows.Interactivity.dll
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\WPFToolkit.dll
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\HtmlAgilityPack.pdb
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\HtmlAgilityPack.xml
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\AppDev\mm Projects\mmMovieCollection\bin\Debug\System.Windows.Interactivity.xml
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection.exe.manifest
+C:\AppDev\mm Projects\mmMovieCollection\obj\Debug\mmMovieCollection.application

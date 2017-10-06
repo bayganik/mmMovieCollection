@@ -1,0 +1,22 @@
+﻿<Page x:Class="mmMovieCollection.Views.Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="40" d:DesignWidth="300" Title="Menu"
+      DataContext="{Binding Main, Source={StaticResource Locator}}">
+
+    <Grid>
+        <Menu KeyboardNavigation.TabNavigation="Cycle">
+            <MenuItem Header="_File">
+                <MenuItem Header="E_xit" Command="{Binding Path=CloseCommand}" />
+            </MenuItem>
+            <MenuItem Header="_Edit" />
+            <MenuItem Header="_Options" />
+            <MenuItem Header="_Help">
+                <MenuItem Header="A_bout"  Command="{Binding AboutBox}"/>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Page>

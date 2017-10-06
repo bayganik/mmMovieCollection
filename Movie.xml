@@ -1,0 +1,227 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <DBRecord>
+    <ID>tt1234</ID>
+    <ImdbURL />
+    <Title>Some kind of wonderful</Title>
+    <RunTime />
+    <Year>2001</Year>
+    <Rating />
+    <Gener />
+    <Summary>love sick puppy finds owner</Summary>
+    <Cast>puppy, owner</Cast>
+    <CurrentVideo>C:\Users\kbaygani\Pictures\becha01.JPG</CurrentVideo>
+    <AllVideo>C:\Users\kbaygani\Pictures\becha01.JPG|C:\Users\kbaygani\Pictures\becha02.JPG</AllVideo>
+    <Oscar />
+    <MultipleVideo>Yes</MultipleVideo>
+    <Poster>Some kind of wonderful.tt1234.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt1829012</ID>
+    <ImdbURL>http://imdb.com/title/tt1829012/</ImdbURL>
+    <Title>Passion</Title>
+    <RunTime>105 min</RunTime>
+    <Year>2012</Year>
+    <Rating>5.4</Rating>
+    <Gener>Crime, Drama, Mystery</Gener>
+    <Summary>The rivalry between the manipulative boss of an advertising agency and her talented protégée escalates from stealing credit to public humiliation to murder.</Summary>
+    <Cast>Rachel McAdams, Noomi Rapace, Karoline Herfurth</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo>Yes</MultipleVideo>
+    <Poster>Passion.tt1829012.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt0468569</ID>
+    <ImdbURL>http://imdb.com/title/tt0468569/</ImdbURL>
+    <Title>The Dark Knight</Title>
+    <RunTime>152 min</RunTime>
+    <Year>2008</Year>
+    <Rating>9.0</Rating>
+    <Gener>Action, Crime, Drama</Gener>
+    <Summary>When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.</Summary>
+    <Cast>Christian Bale, Heath Ledger, Aaron Eckhart</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo />
+    <Poster>The Dark Knight.tt0468569.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt1272878</ID>
+    <ImdbURL>http://imdb.com/title/tt1272878/</ImdbURL>
+    <Title>2 Guns</Title>
+    <RunTime>109 min</RunTime>
+    <Year>2013</Year>
+    <Rating />
+    <Gener>Action, Comedy, Crime</Gener>
+    <Summary>A DEA agent and a naval intelligence officer find themselves on the run after a botched attempt to infiltrate a drug cartel. While fleeing, they learn the secret of their shaky alliance: Neither knew that the other was an undercover agent.</Summary>
+    <Cast>Denzel Washington, Mark Wahlberg, Paula Patton</Cast>
+    <CurrentVideo>C:\Users\kbaygani\Videos\Assassins Creed Lineage.avi</CurrentVideo>
+    <AllVideo>C:\Users\kbaygani\Videos\Assassins Creed Lineage.avi</AllVideo>
+    <Oscar />
+    <MultipleVideo>Yes</MultipleVideo>
+    <Poster>2 Guns.tt1272878.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt1663662</ID>
+    <ImdbURL>http://imdb.com/title/tt1663662/</ImdbURL>
+    <Title>Pacific Rim</Title>
+    <RunTime>131 min</RunTime>
+    <Year>2013</Year>
+    <Rating>7.7</Rating>
+    <Gener>Action, Adventure, Fantasy</Gener>
+    <Summary>As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.</Summary>
+    <Cast>Charlie Hunnam, Idris Elba, Rinko Kikuchi</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo />
+    <Poster>Pacific Rim.tt1663662.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt0071230</ID>
+    <ImdbURL>http://imdb.com/title/tt0071230/</ImdbURL>
+    <Title>Blazing Saddles</Title>
+    <RunTime>93 min</RunTime>
+    <Year>1974</Year>
+    <Rating>7.7</Rating>
+    <Gener>Comedy, Western</Gener>
+    <Summary>To ruin a western town, a corrupt political boss appoints a black sheriff, who promptly becomes his most formidable adversary.</Summary>
+    <Cast>Cleavon Little, Gene Wilder, Slim Pickens</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo>Yes</MultipleVideo>
+    <Poster>Blazing Saddles.tt0071230.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt0041650</ID>
+    <ImdbURL>http://imdb.com/title/tt0041650/</ImdbURL>
+    <Title>Mighty Joe Young</Title>
+    <RunTime>84 min</RunTime>
+    <Year>1949</Year>
+    <Rating>6.8</Rating>
+    <Gener>Adventure, Drama, Fantasy</Gener>
+    <Summary>In Africa, the girl Jill Young trades a baby gorilla with two natives and raises the animal. Twelve years later, the talkative and persuasive promoter Max O'Hara organizes a safari to ...                See full summary&amp;nbsp;&amp;raquo;</Summary>
+    <Cast>Terry Moore, Ben Johnson, Robert Armstrong</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo />
+    <Poster>Mighty Joe Young.tt0041650.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt0056692</ID>
+    <ImdbURL>http://imdb.com/title/tt0056692/</ImdbURL>
+    <Title>Wild Gals of the Naked West</Title>
+    <RunTime>65 min</RunTime>
+    <Year>1962</Year>
+    <Rating>4.0</Rating>
+    <Gener>Comedy, Western</Gener>
+    <Summary>An old geezer recalls some of the antics of the men and women of his western town, more wild and woolly than Tombstone or Dodge City. In this town no one is a good shot, the women are hungry for new meat, and practical jokers abound. A stranger strolls into town, proving resistant to the mayhem, and after donning some cowboy duds begins cleaning up that town</Summary>
+    <Cast>Sammy Gilbert, Anthony-James Ryan, Jackie Moran</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo />
+    <Poster>Wild Gals of the Naked West.tt0056692.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt0796366</ID>
+    <ImdbURL>http://imdb.com/title/tt0796366/</ImdbURL>
+    <Title>Star Trek</Title>
+    <RunTime>127 min</RunTime>
+    <Year>2009</Year>
+    <Rating>8.0</Rating>
+    <Gener>Action, Adventure, Sci-Fi</Gener>
+    <Summary>The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful, time-traveling Romulan creates black holes to destroy the Federation one planet at a time.</Summary>
+    <Cast>Chris Pine, Zachary Quinto, Simon Pegg</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo />
+    <Poster>Star Trek.tt0796366.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt0271451</ID>
+    <ImdbURL>http://imdb.com/title/tt0271451/</ImdbURL>
+    <Title>Descent Into Darkness</Title>
+    <RunTime>96 min</RunTime>
+    <Year>2002</Year>
+    <Rating>3.7</Rating>
+    <Gener>Action, Adventure, Sci-Fi</Gener>
+    <Summary>Deep in the Mariana Sea Trench, a corporate underwater mining complex has been built - an industrial Atlantis. When an accident in a dry-dock chamber kills several miners an investigator is...                See full summary&amp;nbsp;&amp;raquo;</Summary>
+    <Cast>Dean Cain, Scott Wiper, Biliana Petrinska</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo />
+    <Poster>Descent Into Darkness.tt0271451.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt1408101</ID>
+    <ImdbURL>http://imdb.com/title/tt1408101/</ImdbURL>
+    <Title>Star Trek Into Darkness</Title>
+    <RunTime>132 min</RunTime>
+    <Year>2013</Year>
+    <Rating>8.0</Rating>
+    <Gener>Action, Adventure, Sci-Fi</Gener>
+    <Summary>After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction.</Summary>
+    <Cast>Chris Pine, Zachary Quinto, Zoe Saldana</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo />
+    <Poster>Star Trek Into Darkness.tt1408101.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt0816711</ID>
+    <ImdbURL>http://imdb.com/title/tt0816711/</ImdbURL>
+    <Title>World War Z</Title>
+    <RunTime>116 min</RunTime>
+    <Year>2013</Year>
+    <Rating>7.1</Rating>
+    <Gener>Action, Adventure, Horror</Gener>
+    <Summary>United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself.</Summary>
+    <Cast>Brad Pitt, Mireille Enos, Daniella Kertesz</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo />
+    <Poster>World War Z.tt0816711.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt0109656</ID>
+    <ImdbURL>http://imdb.com/title/tt0109656/</ImdbURL>
+    <Title>Double Obsession</Title>
+    <RunTime>88 min</RunTime>
+    <Year>1994</Year>
+    <Rating>4.2</Rating>
+    <Gener>Thriller</Gener>
+    <Summary>A disturbed lesbian librarian kidnaps a beautiful young woman she's obsessed with, breaks her foot to keep her incapacitated, then starts to kill off people she believes are intruding in their "relationship".</Summary>
+    <Cast>Margaux Hemingway, Maryam d'Abo, Frederic Forrest</Cast>
+    <CurrentVideo />
+    <AllVideo />
+    <Oscar />
+    <MultipleVideo />
+    <Poster>Double Obsession.tt0109656.jpg</Poster>
+  </DBRecord>
+  <DBRecord>
+    <ID>tt0319262</ID>
+    <ImdbURL>http://imdb.com/title/tt0319262/</ImdbURL>
+    <Title>The Day After Tomorrow</Title>
+    <RunTime>124 min</RunTime>
+    <Year>2004</Year>
+    <Rating>6.3</Rating>
+    <Gener>Action, Adventure, Sci-Fi</Gener>
+    <Summary>Jack Hall, paleoclimatologist for NORAD, must make a daring trek across America to reach his son, trapped in the cross-hairs of a sudden international storm which plunges the planet into a new Ice Age.</Summary>
+    <Cast>Dennis Quaid, Jake Gyllenhaal, Emmy Rossum</Cast>
+    <CurrentVideo>C:\Downloads\Day-after-tomorrow.txt</CurrentVideo>
+    <AllVideo>C:\Downloads\Day-after-tomorrow.txt</AllVideo>
+    <Oscar />
+    <MultipleVideo />
+    <Poster>The Day After Tomorrow.tt0319262.jpg</Poster>
+  </DBRecord>
+</NewDataSet>

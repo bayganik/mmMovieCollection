@@ -1,0 +1,24 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:col="clr-namespace:System.Collections;assembly=mscorlib">
+
+    <LinearGradientBrush x:Key="backBrush" StartPoint="1,0" EndPoint="1,1" >
+        <GradientStop Color="Gray" Offset="0" />
+        <GradientStop Color="Black" Offset=".35" />
+    </LinearGradientBrush>
+
+    <DropShadowEffect x:Key="shadowWindow"
+                      Color="Gray"
+                      Opacity=".80"
+                      ShadowDepth="16" />
+
+    <DropShadowEffect x:Key="shadowButton"
+                      Color="GhostWhite"
+                      Opacity=".80"
+                      ShadowDepth="6" />
+
+    <DropShadowEffect x:Key="mainDropShadow"
+                        Color="DarkSlateGray"
+                        ShadowDepth="8" />
+
+</ResourceDictionary>

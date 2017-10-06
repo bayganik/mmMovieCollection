@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NewDataSet>         
+  <Movies>
+    <ID>tt12345</ID>
+    <Title>Fidller on the Roof</Title>
+    <RunTime>20</RunTime>
+    <Year>1960</Year>
+    <Rating>6.5</Rating>
+    <Gener>Musical</Gener>
+    <Summary>There once was a man from </Summary>
+    <Cast>John Wayne, Hugh McCarty</Cast>
+    <CurrentVideo>C:\Movies\Location\xxxx.mp4</CurrentVideo>
+    <AllVideo>Video1|Video2|Video3</AllVideo>
+    <Oscar>Yes</Oscar>
+    <VideoType>Movie</VideoType>
+  </Movies>
+</NewDataSet>

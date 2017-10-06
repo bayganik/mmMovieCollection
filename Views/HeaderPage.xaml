@@ -1,0 +1,14 @@
+﻿<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:mmMovieCollection="clr-namespace:mmMovieCollection" 
+      x:Class="mmMovieCollection.Views.HeaderPage" 
+	  Title="HeaderPage" ShowsNavigationUI="False" Background="OrangeRed" 
+      DataContext="{Binding Main, Source={StaticResource Locator}}">
+
+    <Grid  >
+        <Grid />
+        <mmMovieCollection:ImageBanner />
+    </Grid>
+</Page>

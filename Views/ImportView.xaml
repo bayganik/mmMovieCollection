@@ -1,0 +1,117 @@
+﻿<Window x:Class="mmMovieCollection.Views.ImportView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.ignore.com"
+        xmlns:myApp="clr-namespace:mmMovieCollection"
+        mc:Ignorable="d ignore" 
+        Width="Auto" SizeToContent="Width"
+    DataContext="{Binding ImportFolderMovie, Source={StaticResource Locator}}">
+    <Window.Resources>
+        <DataTemplate x:Key="TitleColHeader">
+            <TextBlock Text="File Names" FontWeight="Bold" Width="210" />
+        </DataTemplate>
+        <DataTemplate x:Key="MovieTitleTemplate">
+            <TextBlock Text="{Binding Title}"  Width="250"/>
+        </DataTemplate>
+        <myApp:YesNoToBoolConverter x:Key="YNToBool" />
+        <Style x:Key="PhotoListStyle" TargetType="{x:Type ListBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ListBox}" >
+                        <Border 
+							BorderBrush="Wheat" 
+							BorderThickness="2" 
+							CornerRadius="6" 
+							Background="{DynamicResource ListBoxGradient}" >
+                            <ScrollViewer 
+								VerticalScrollBarVisibility="Disabled" 
+								HorizontalScrollBarVisibility="Auto">
+                                <StackPanel  
+									IsItemsHost="True" 
+									Orientation="Horizontal" 
+									HorizontalAlignment="Left" />
+                            </ScrollViewer>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="PhotoListItem" TargetType="{x:Type ListBoxItem}">
+            <Setter Property="MaxHeight" Value="150" />
+            <Setter Property="MinHeight" Value="140" />
+            <Setter Property="Opacity" Value=".75" />
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Mouse.MouseEnter">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation 
+									Duration="0:0:0.2" 
+									Storyboard.TargetProperty="MaxHeight" 
+									To="85" />
+                                <DoubleAnimation 
+									Duration="0:0:0.2" 
+									Storyboard.TargetProperty="Opacity"
+									To="1.0" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+
+                <EventTrigger RoutedEvent="Mouse.MouseLeave">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation 
+									Duration="0:0:1" 
+									Storyboard.TargetProperty="MaxHeight" />
+                                <DoubleAnimation 
+									Duration="0:0:0.2" 
+									Storyboard.TargetProperty="Opacity" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Border CornerRadius="10"
+
+          BorderBrush="Goldenrod"
+          BorderThickness="4"
+          Background="{StaticResource backBrush}"
+          Effect="{StaticResource shadowWindow}"
+          Padding="12">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <ListView Grid.Row="0"  Cursor="Hand" 
+                      BorderBrush="DarkGoldenrod" BorderThickness="2" Margin="0,5" 
+                      ItemsSource="{Binding MovieList}" ScrollViewer.VerticalScrollBarVisibility="Visible" 
+                      SelectedItem="{Binding SelectedMovie, Mode=TwoWay}" 
+                      SelectedIndex="{Binding SelectedMovieIndex, Mode=TwoWay}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn 
+                            HeaderTemplate="{StaticResource TitleColHeader}" 
+                            CellTemplate="{StaticResource MovieTitleTemplate}" >
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <StackPanel  Grid.Row="1" Orientation="Horizontal" Margin="30,10,0,0">
+                <Button x:Name="btnOK" Content="Folder" Command="{Binding CmdFolder}" Template="{StaticResource FormButton}" Margin="0,0,0,0"  VerticalAlignment="Top" Width="75" Height="25"/>
+                <Button x:Name="btnCancel" Content="Cancel"  Command ="{Binding CmdExit}"  Template="{StaticResource FormButton}"  
+                        Margin="50,0,0,0"   VerticalAlignment="Top" Width="75" Height="25"
+                        CommandParameter="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" />
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
